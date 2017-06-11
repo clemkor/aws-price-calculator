@@ -1,3 +1,10 @@
 source 'https://rubygems.org'
 
 gem 'aws-sdk', '~> 2.7', '>= 2.7.15'
+gem 'hamster', '~> 3.0'
+gem 'activesupport', '~> 5.1', '>= 5.1.1'
+gem 'daru', '~> 0.1.5'
+gem 'nyaplot', '~> 0.2.0.rc1'
+gem 'gnuplotrb', '~> 0.3.4'
+gem 'reportbuilder', '~> 1.4', '>= 1.4.2'
+gem 'spreadsheet', '~> 1.1', '>= 1.1.4'
