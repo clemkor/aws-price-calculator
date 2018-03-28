@@ -14,8 +14,8 @@ vendor/
 dist/
 
 # Data
-/data
-!/data/001-regions
+/data/002-spot-pricing
+/data/003-graphs
 
 # OS
 .DS_Store
